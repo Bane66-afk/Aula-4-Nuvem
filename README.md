@@ -1,6 +1,7 @@
 # Aula-4-Nuvem
 MODELO RECOMENDADO
 O melhor modelo que poderia ser usado seria a Nuvem hibrida;
+
 JUSTIFICATIVA DO MODELO
 por possuir o meio de armazenar dados similiar a nuvem privada garantindo segurança e controle com normas como LGPD e GDPR , ela tbm pode escalar recursos rapidamente como a nuvem publica e tbm podendo reduzir investimentos e a combinaçao com a nuvem privada evita gastos excessivos e possuindo uma arquitetura hibrida lhe permite alta flexibilidade e crescer conforme necessario;
 VANTAGENS DA NUVEM HIBRIDA: alta segurança , flexibilidade , otimizaçao de custos e elasticidade;
